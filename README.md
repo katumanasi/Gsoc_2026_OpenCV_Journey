@@ -8,3 +8,4 @@
 | Jan 19 | `find_obj.py` | Learned the Lowe's Ratio Test. Lowering the ratio makes the computer a 'stricter' detective. |
 | Jan 21 | `GSOC Research & Stratey` | Organizations apply to Google between Jan 19 and Feb 11. I learned that I must look for the "Ideas Page" to start choosing a project early.|
 | Jan 22|`aruco_test.py` | 1ArUco Detection,Successfully detected Marker ID 17 using Python. Mastered grayscale conversion and flip-correction for better detection. |
+| Jan 27 | Milestone | Completed first professional Git commit on the OpenCV source tree. Adhered to library naming conventions for commit messages. |
