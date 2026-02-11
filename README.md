@@ -10,3 +10,5 @@
 | Jan 22|`aruco_test.py` | 1ArUco Detection,Successfully detected Marker ID 17 using Python. Mastered grayscale conversion and flip-correction for better detection. |
 | Jan 27 | Milestone | Completed first professional Git commit on the OpenCV source tree. Adhered to library naming conventions for commit messages. |
  Feb 2 | Sample Improvement | Enhanced opt_flow.py by adding a real-time HUD (Heads-Up Display) to track visualization states. This improves sample usability for new developers.|
+| Feb 11 | Robustness | The ability of program to handle errors during execution | added isOpened() check to edge.py
+| Feb 11 | Validation | Checking if data i valid before execution | Added img is none check before cvtColor | 
